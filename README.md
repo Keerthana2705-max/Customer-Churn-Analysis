@@ -101,11 +101,23 @@ Churn:	0 = No, 1 = Yes<br></p>
 <p>Used various plots for better understanding:</p>
 
 1.Bar charts (churn distribution)<br>
+<img width="736" height="567" alt="image" src="https://github.com/user-attachments/assets/7c48a0e9-d779-4027-893d-2d29b31709a0" />
+
 2. Pie charts (churn percentage)<br>
+<img width="510" height="510" alt="image" src="https://github.com/user-attachments/assets/9a8895ab-2faf-4d58-84e6-bd003e6b7e65" />
+
 3. Histograms (age distribution)<br>
+<img width="696" height="543" alt="image" src="https://github.com/user-attachments/assets/6b81ade4-a5fe-4f69-a9f4-1f77dc9cbb9e" />
+
 4. Scatter plots (balance vs salary)<br>
+<img width="751" height="570" alt="image" src="https://github.com/user-attachments/assets/b41eba9e-6990-4665-98a6-c6661e9b4930" />
+
 5. Box plots (balance vs churn)<br>
+<img width="750" height="568" alt="image" src="https://github.com/user-attachments/assets/09a4ad03-df58-4400-9b3f-0d6bf22a7ab6" />
+
 6. Heatmaps (correlation matrix)<br>
+<img width="785" height="666" alt="image" src="https://github.com/user-attachments/assets/e72edce6-2390-4733-9823-42f4f0c65144" />
+
 <h3>Tools & Technologies</h3>
 1.Python<br>
 2.pandas<br>
